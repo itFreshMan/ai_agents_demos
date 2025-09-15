@@ -15,6 +15,7 @@ Two functions are exposed for use as tools:
   - **v3**: Uses `agent_chain`
   - **v4**: Uses `AgentExecutor`
   - **v5**: Uses `AgentExecutor` with memory support
+  - **v5**: Use `Langgraph`
 
 # Pydantic AI
 - Build agents using `pydantic_ai` with the exposed functions as tools.
